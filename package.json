@@ -1,0 +1,22 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "main": "style.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mannu1811/jspractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mannu1811/jspractice/issues"
+  },
+  "homepage": "https://github.com/Mannu1811/jspractice#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

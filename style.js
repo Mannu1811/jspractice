@@ -1,6 +1,8 @@
-// Hello I have connected through SSH
-
-
+var _ = require('lodash');
+// console.log(_);
+var arr = [-1, 1, 2, 3, 4, 5, 6, 7, 8];
+console.log(arr.join(" "));
+console.log( _.without(arr, -1));
 var input = document.getElementById("userinput");
 var button = document.getElementById("enter");
 var ul = document.querySelector("ul");
